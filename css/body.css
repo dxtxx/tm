@@ -1,0 +1,15 @@
+p,h1,h2,h3,h4,h5,h6,pre,ol,ul,dl,dt,dd,body,input,textarea,select{
+margin: 0;
+padding: 0;
+list-style: none;
+font: 12px/1.5 tahoma,arial,"宋体";
+}
+h1, h2, h3, h4, h5, h6 {
+    font-size: 100%;
+}
+a{
+	text-decoration: none;
+}
+img{
+	border: 0;
+}
